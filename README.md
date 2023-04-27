@@ -18,12 +18,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Roles
-- Departments
-- Teams
-- Agents
-- Users(Customers)
-- SLA
+- [Roles](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html)
+- [Departments](https://docs.osticket.com/en/latest/Admin/Agents/Departments.html)
+- [Teams](https://docs.osticket.com/en/latest/Admin/Agents/Teams.html)
+- [Agents](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)
+- [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html)
+- [SLA](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
 - Help Topics
 
 <h2>Configuration Steps</h2>
